@@ -1,0 +1,121 @@
+.centered{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+   
+   
+}
+ .imges{
+width: 80px;
+height: 80px;
+margin-bottom: 800px;
+opacity: 0.4;
+    filter: alpha(opacity=40);
+    margin-left: 100px;
+    margin-top: 30px;
+ }
+.quotation{
+   display: flex;
+   justify-content: space-between;
+   justify-content: center;
+ 
+   width: 700px;
+height: 400px;
+}
+.mark-pla{
+   margin-left: 40px;
+   background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    width: 400px;
+    margin-top: 460px;
+    margin-bottom: -400px;
+    position: relative;
+
+}
+.MarkQ{
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 16px;
+   font-weight: bold;
+   color: #000;
+  
+
+}
+
+ .person{
+ position: absolute;
+ width: 70px;
+ height: 70px;
+ margin-top: 300px;
+ margin-left: -50px;
+ border: 1px solid #fff;
+    border-radius: 50px;
+
+   
+   
+}
+.Person-Rat{
+   position: absolute;
+   top: 8px;
+   right: 16px;
+   background-color: #fff;
+   border: 1px solid #fff;
+   border-radius: 15px;
+   width: 40px;
+   height: 20px;
+   color: #000;
+   font-size: 15px;
+   font-weight: bold;
+   text-align: center;
+   padding: 5px;
+   margin-top: 300px;
+  margin-left: 120px;
+ }
+ .Pes-Rat{
+   position: absolute;
+   top: 8px;
+   right: 16px;
+   background-color: #fff;
+   border: 1px solid #fff;
+   border-radius: 15px;
+   width: 40px;
+   height: 20px;
+   color: #000;
+   font-size: 15px;
+   font-weight: bold;
+   text-align: center;
+   padding: 5px;
+   margin-top: 300px;
+  margin-left: 120px;
+ }
+ .Vand{
+   position: absolute;
+   top: 70%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 15px;
+   font-weight: bold;
+   color:#659ef7 ; 
+}
+.Happy{
+color:#7c7c7c;
+position: absolute;
+top: 80%;
+left: 40%;
+}
+.Happy-T{
+   color:#7c7c7c;
+position: absolute;
+top: 80%;
+left: 40%;
+}
+
+
+
+
+

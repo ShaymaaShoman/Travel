@@ -1,0 +1,40 @@
+
+.Recomm{
+    display: flex;
+    justify-content: center;
+}
+
+h2{ 
+    margin-top: 160px;
+    font-size: 40px;
+}
+
+.Desti-container {
+    display: grid;
+    margin-top: 250px;
+    grid-template-columns: auto auto auto;
+ margin-left: -390px;
+  }
+  .Desti-item {
+    width: 20%;
+   font-weight: bold;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    color: #7c7c7c;
+    margin-top: 15px;
+  
+  }
+  .Desti-item button{
+    color:#659ef7; 
+   
+    width: 100px;
+    height: 50px;
+    border: 1px solid #659ef7; 
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: -15px;
+    background-color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+  }

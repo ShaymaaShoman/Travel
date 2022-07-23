@@ -1,0 +1,119 @@
+
+
+.foo-container{
+   
+    position: relative;
+    height: 600px;
+}
+.foo-container img {
+    position: absolute;
+   
+    justify-content: center;
+    border-radius: 10%;
+      margin-top: 100px;
+      width: 70%;
+      height: 400px;
+      margin-left:180px;
+  
+}
+
+.foo-container p{
+    position: absolute;
+   
+    justify-content: center;
+    margin-top: -230px;
+    top: 80%;
+    left: 50%;
+    font-size: 35px;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-transform:capitalize;
+}
+.foo-container .Regis{
+    position: absolute;
+    justify-content: center;
+    margin-top: -170px;
+    top: 80%;
+    left: 50%;
+    font-size: 35px;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-transform:capitalize;
+}
+.foo-container button{
+    position: absolute;
+    justify-content: center;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  #659ef7;
+    background-color: #fff;
+    border: 1px solid #659ef7 ;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    margin-top: -80px;
+    
+    text-transform:capitalize; 
+}
+.for-bac{
+    display: flex;
+    justify-content: center;
+    color: #659ef7 ;
+    margin-top: 500px;
+}
+.forwaed{
+    display: flex;
+    justify-content: center;
+    color: #659ef7 ;
+    font-size: 15px;
+    padding: 10px;
+    border: 1px solid  #659ef7 ;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.Baforwaed{
+    display: flex;
+    border: 1px solid  #659ef7 ;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+    font-size: 15px;
+}
+.Copy-auth b{
+
+    display: flex;
+    justify-content: left;
+    color: #7c7c7c;
+    position: absolute;
+    margin-top: 500px;
+    font-size: 15px;
+
+}
+
+ 
+.men ul {
+    position: absolute;
+    margin-top: 540px;
+    display: flex;
+    justify-content: right;
+    position: absolute;
+  top: 8px;
+  right: 16px;
+ 
+  }
+  .men ul li {
+   
+    list-style: none;
+    margin-right: 30px;
+    margin-top: 10px;
+  
+  }
+  .men ul li:hover {
+    text-decoration: underline;
+  }
+  .men ul li a {
+   
+    text-decoration: none;
+    color:   #7c7c7c;
+  }
