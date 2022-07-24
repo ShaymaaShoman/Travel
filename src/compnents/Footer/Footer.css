@@ -32,9 +32,9 @@
 .foo-container .Regis{
     position: absolute;
     justify-content: center;
-    margin-top: -170px;
+    margin-top: -180px;
     top: 80%;
-    left: 50%;
+    left: 51%;
     font-size: 35px;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -43,13 +43,13 @@
 .foo-container button{
     position: absolute;
     justify-content: center;
-    top: 80%;
-    left: 50%;
+    top: 76%;
+    left: 52%;
     transform: translate(-50%, -50%);
     color:  #659ef7;
     background-color: #fff;
     border: 1px solid #659ef7 ;
-    border-radius: 10px;
+    border-radius: 15px;
     width: 150px;
     height: 50px;
     margin-top: -80px;

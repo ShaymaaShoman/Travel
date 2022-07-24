@@ -19,7 +19,7 @@ export const Content = () => {
  the nature paradise of the world, let's find the best destination <br/>
  in the world with us.  Do nature explore parodies in the world, let's<br/>
   find with us the best destination in the world</p>
-<p className='Parg'> Would you explore the world, let's search with us for the best<br/>
+<p className='Par'> Would you explore the world, let's search with us for the best<br/>
  destination best destination in the world with us </p>
  <button className='btn-blue'> Contact Us</button>
 </div>
